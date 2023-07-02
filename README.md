@@ -15,4 +15,4 @@ pip install subprocess
 ```
 
 ## Results
-<img src="https://github.com/Shravani1383/PythoNest/blob/main/Output.png" width="328" height="400"/>
+<img src="https://github.com/Shravani1383/PythoNest/blob/main/Output.png" width="528" height="400"/>
